@@ -1,6 +1,8 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Pattaya|Work+Sans:400,200,300);
 
+
+
 .container {
 	position: relative;
 	width: 50%;
@@ -50,7 +52,7 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
-
+	
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
