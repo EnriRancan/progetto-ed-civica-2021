@@ -2,7 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Pattaya|Work+Sans:400,200,300);
 
 
-
+strong { 
+	font-weight: bold;
+}
 .container {
 	position: relative;
 	width: 50%;
